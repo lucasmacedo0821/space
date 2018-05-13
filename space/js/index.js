@@ -35,3 +35,6 @@ function teste(){
 	alert("Capital Code");
 }
 
+function teste2(){
+	alert("teste 2");
+}
